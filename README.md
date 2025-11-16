@@ -39,3 +39,8 @@ This repository contains a **C++ program** that implements and benchmarks severa
 
 ```bash
 g++ src/main.cpp src/support.cpp -o sortAlgorithms
+1. **Compile the program:**
+
+2. **To run non-intreactively (10 numbers and get input from file):**
+```bash
+./sortAlgorithms 10 < data100.txt
