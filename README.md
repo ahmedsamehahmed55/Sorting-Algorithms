@@ -44,4 +44,4 @@ g++ src/main.cpp src/support.cpp -o sortAlgorithms
  ````  
 2. **To run non-intreactively (10 numbers and get input from file):**
 ```bash
-./sortAlgorithms 10 < data100.txt
+./sortAlgorithms 10 < random.txt
