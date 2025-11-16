@@ -1,6 +1,6 @@
 # Sorting Algorithms Performance Benchmark
 
-This repository contains a **C++ program** that implements and benchmarks several classical sorting algorithms. It is designed to help students and developers **compare execution times** of different sorting methods on arrays under various conditions.
+This repository contains a **C++ program** that implements and benchmarks several classical sorting algorithms. It is designed to help **compare execution times** of different sorting methods on arrays under various conditions.
 
 ## Features
 
